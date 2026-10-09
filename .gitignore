@@ -1,0 +1,11 @@
+# Keep the portable application, exclude generated build and test files.
+*.exe
+!/EnvyMonitor.exe
+*.pdb
+*.csv
+*.zip
+source/bin/
+source/obj/
+.vs/
+*.user
+*.suo
